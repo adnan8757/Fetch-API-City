@@ -1,0 +1,15 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+
+body{
+  background-color: blanchedalmond;
+}
+
+#img1,#img2,#img3{
+  height: 300px;
+  width: auto;
+}
